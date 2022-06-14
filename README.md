@@ -1,6 +1,7 @@
 # MPU6050_Bryan
 
 Connection of wires
+
   MPU   |   Arduino Uno
   VCC   ->  5V
   GND   ->  GND
